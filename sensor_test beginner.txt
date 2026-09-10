@@ -1,0 +1,4 @@
+sensor_num,temperature,signal_raw
+1,10.2,145.3
+1,12.5,152.8
+2,10.1,152.1
